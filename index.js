@@ -5,7 +5,6 @@ let person = {
     occupation: '',
     gender: ['male', 'female'],
     isMarried: false,
-    canRead: false
 };
 
 function greet (firstName) {
@@ -18,3 +17,4 @@ function root(number) {
 }
 
 console.log(root(20));
+console.log()
